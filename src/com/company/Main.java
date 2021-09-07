@@ -3,7 +3,10 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	String day = " Friday ";
+
+        System.out.println("Hello World");
+
+        String day = " Friday ";
     int date = 3;
     String month = " September ";
     int year = 2021;
