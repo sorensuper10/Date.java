@@ -10,7 +10,8 @@ public class Main {
     int date = 3;
     String month = " September ";
     int year = 2021;
-    System.out.print("European Format:");
+        //TODO samle sout, så de står i én med + operatoren i mellem dem, samt lave en System.out.println(). Alt står på en linje.
+    System.out.print("European Format:"); 
     System.out.print(day);
     System.out.print(date);
     System.out.print(month);
@@ -18,7 +19,7 @@ public class Main {
 
     day = " Friday, ";
     month = "September ";
-    System.out.print(" American Format:");
+    System.out.print(" American Format:"); //TODO gøre det samme som i European Format med sout. 
     System.out.print(day);
     System.out.print(month);
     System.out.print(date);
